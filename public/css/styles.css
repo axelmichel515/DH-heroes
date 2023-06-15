@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(goldenrod,brown,goldenrod);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#titulo{
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background:linear-gradient(goldenrod,white);
+}
+
+#botones {
+    display: inline-block;
+    padding: 10px 15px;
+    background :linear-gradient(goldenrod,white,goldenrod);
+    text-decoration-color: goldenrod;
+    margin-bottom: 10px;
+    font-weight: bold;
+    border-radius: 6px;
+    box-shadow: 2px 2px 5px ;
+}
+
+#info{
+    background:linear-gradient(goldenrod,white,goldenrod);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: larger;
+}
+
+#return{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    display: inline-block;
+    padding: 10px 15px;
+    background :linear-gradient(goldenrod,white,goldenrod);
+    text-decoration-color: goldenrod;
+    margin-bottom: 10px;
+    font-weight: bold;
+    border-radius: 6px;
+    box-shadow: 2px 2px 5px ;
+}
